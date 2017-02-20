@@ -1,4 +1,5 @@
-Policy Gradient Methods
+Stochastic Policy Gradient Methods
+For a detailed discussion, visit : https://sridhartee.blogspot.in/2016/11/policy-gradient-methods.html
 Environment Simulator Used : OpenAI Gym.
 Minimal Install
 1)git clone https://github.com/openai/gym
