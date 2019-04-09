@@ -4,7 +4,7 @@ Environment Simulator Used : OpenAI Gym.
 
 <p align="center">
   <img src="https://github.com/sritee/Stochastic-Policy-Gradient-Methods/blob/master/cartpole-actorcritic.png" width="450" title="Continuous Action Mountain Car">
-
+</p>
 We design and test 3 policy gradient methods in this repository
 1)Monte Carlo Policy Gradient : Baseline used is average of rewards obtained, no baseline results in high variance
 2)Actor Critic Method : Using Softmax policy and Q-learning Critic for value function estimation
