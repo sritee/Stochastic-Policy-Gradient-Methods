@@ -3,7 +3,7 @@ For a detailed discussion, visit : https://sridhartee.blogspot.in/2016/11/policy
 Environment Simulator Used : OpenAI Gym.
 
 <p align="center">
-  <img src="https://github.com/sritee/Stochastic-Policy-Gradient-Methods/cartpole-actorcritic.png" width="450" title="Continuous Action Mountain Car">
+  <img src="https://github.com/sritee/Stochastic-Policy-Gradient-Methods/blob/master/cartpole-actorcritic.png" width="450" title="Continuous Action Mountain Car">
 
 We design and test 3 policy gradient methods in this repository
 1)Monte Carlo Policy Gradient : Baseline used is average of rewards obtained, no baseline results in high variance
@@ -11,6 +11,3 @@ We design and test 3 policy gradient methods in this repository
 3)Numerical Gradient Estimation : perturb the parameters and estimate the gradient using regression (X'X)^-1X'y. 
 Change num_rollouts to change the number of training examples we learn the gradient from.
 Note that the actual number of runs is number of episodes*num_rollouts
-
-
-
