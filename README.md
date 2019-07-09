@@ -1,7 +1,6 @@
 # Stochastic Policy Gradient Methods
 
 For a detailed discussion, visit : https://sridhartee.blogspot.in/2016/11/policy-gradient-methods.html
-Environment Simulator Used : OpenAI Gym.
 
 ![cartpole-actorcritic](https://user-images.githubusercontent.com/25884784/60865345-b568d680-a1da-11e9-9299-b55ee0d6bcee.png)
 
